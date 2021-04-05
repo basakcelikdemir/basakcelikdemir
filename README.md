@@ -1,5 +1,5 @@
                                 Hi, 👋 I’m Başak Çelikdemir  
-                      I graduated from the department of statistics,
+                       I graduated from the department of Statistics
  
  -  👀 I’m interested in : Data Science
  -  🌱 I’m currently learning  : Python
