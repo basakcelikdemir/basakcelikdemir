@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @basakcelikdemir
-- 👀 I’m interested in : Veri Bilimi
+-         👋 Hi, I’m Başak Çelikdemir
+-  
+- 
+- 
+- 👀 I’m interested in : Data Science
 - 🌱 I’m currently learning  : Python
  - 📫 How to reach me : basakcelikdemir@hotmail.co.uk
 <!---
