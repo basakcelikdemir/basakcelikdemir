@@ -3,5 +3,5 @@
  
  -  👀 I’m interested in : Data Science
  -  🌱 I’m currently learning  : Python
- -  📝 I regularly write articles on https://medium.com/@basakcelikdemir
+ -  📝 I regularly write articles on https://basakcelikdemir.medium.com
  -  📫 How to reach me : basakcelikdemir@hotmail.co.uk
